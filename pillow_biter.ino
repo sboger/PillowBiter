@@ -87,7 +87,7 @@ char *ssids[MAX_SSID] = {
       "EVS 6.2.0.0 Router",
       "EVS 6.3.0.0 Cellular",
       "EVS 6.4.0.0 CIA",
-      "MicroVote EMS 4.41 Voting System 8",
+      "MicroVote EMS 4.41 WAN Router",
       "OpenElect 2.2 China",
       "OpenElect 2.2.3 Tabulator 5",
       "Verity Voting 2.5 FBI",
