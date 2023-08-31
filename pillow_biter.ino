@@ -34,7 +34,7 @@ char *ssids[MAX_SSID] = {
       "Hart InterCivic 3",
 
       "Dominion Votings Systems WAN",
-      "Clear Ballot Group WAB",
+      "Clear Ballot Group WAN",
       "Election Systems & Software WAN",
       "MicroVote General Corp WAN",
       "Unisyn Voting Solutions WAN",
