@@ -5,5 +5,5 @@ Uses wifi beacon frames to project numerous wifi access points that identify as 
 
 Tested with an ESP01s and Arduino IDE 2.1.1
 
-![image](esp01s.webp)
+![image](esp01s-crop.png)
 ![image](pillowbiter.png)
