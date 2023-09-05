@@ -8,3 +8,12 @@ Tested with a 99¢ ESP01S and Arduino IDE 2.1.1
 ![image](esp01s-crop.png)
 
 ![image](pillowbiter2.png)
+
+
+
+
+
+
+
+
+(WARNING: This is a novelty. It is recommended you DO NOT take this to polling places.)
