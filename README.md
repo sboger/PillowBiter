@@ -7,4 +7,4 @@ Tested with an 99¢ ESP01s and Arduino IDE 2.1.1
 
 ![image](esp01s-crop.png)
 
-![image](pillowbiter.png)
+![image](pillowbiter2.png)
