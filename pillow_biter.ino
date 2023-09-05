@@ -6,7 +6,7 @@ extern "C" {
 
 byte channel;
 
-#define MAX_SSID 78 /* how much SSIDs we have */
+#define MAX_SSID 78 /* number of SSIDs */
 char *ssids[MAX_SSID] = {
       "Mike Lindell is an idiot", 
       "MyPillow is filled with rocks",
