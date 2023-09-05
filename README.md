@@ -16,4 +16,4 @@ Tested with a 99¢ ESP01S and Arduino IDE 2.1.1
 
 
 
-(WARNING: This is a novelty. It is recommended you DO NOT take this to polling places.)
+(WARNING: This is a novelty and for demonstration purposes only. It is recommended you DO NOT take this to polling places.)
